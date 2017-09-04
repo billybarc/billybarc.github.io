@@ -8,10 +8,12 @@ body {
 	font-weight: bold;
 }
 
+ul {
+	marin: 0px
+}
+
 ul li {
 	list-style: none;
-	display: inline;
-
 }
 
 #main #contact {
