@@ -1,11 +1,12 @@
 body {
-	font-family: "times";
+	font-family: "Times";
 	font-size: 10pt;
 	background-color: #ffffff
 }
 
 #main {
 	text-align: center;
+
 }
 
 #main #center {
@@ -26,6 +27,7 @@ body {
 #links {
 	/*margin-left: auto;
 	margin-right: auto;*/
+
 }
 
 a {
