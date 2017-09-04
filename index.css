@@ -4,33 +4,24 @@ body {
 	background-color: #ffffff
 }
 
-#main {
-	text-align: center;
-
+#main #name {
+	font-weight: bold;
 }
 
-#main #center {
-	margin: auto;
-	width: 50%;
-	overflow: auto;
+#main #now {
+	list-style-type: lower-roman;
 }
 
-#description {
-	width: auto;
+#main #past {
+	list-style-type: lower-roman;
 }
 
 #main #contact {
 	display: inline-block;
 	align-items: center;
-}
-
-#links {
-	/*margin-left: auto;
-	margin-right: auto;*/
-
+	font: "Courier New"
 }
 
 a {
 	font-weight: bold;
-
 }
