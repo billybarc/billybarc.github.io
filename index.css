@@ -8,20 +8,18 @@ body {
 	font-weight: bold;
 }
 
+#main #about #me {
+	list-style-type: none;
+}
+
 #main #now {
-	list-style-type: lower-roman;
+	list-style-type: none;
 }
 
 #main #past {
-	list-style-type: lower-roman;
+	list-style-type: none;
 }
 
 #main #contact {
-	display: inline-block;
-	align-items: center;
 	font: "Courier New"
-}
-
-a {
-	font-weight: bold;
 }
