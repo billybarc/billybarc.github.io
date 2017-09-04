@@ -8,16 +8,10 @@ body {
 	font-weight: bold;
 }
 
-#main #about #me {
+main + ul {
 	list-style-type: none;
-}
+	display: inline;
 
-#main #now {
-	list-style-type: none;
-}
-
-#main #past {
-	list-style-type: none;
 }
 
 #main #contact {
