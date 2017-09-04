@@ -8,7 +8,7 @@ body {
 	font-weight: bold;
 }
 
-main + ul li {
+ul li {
 	list-style: none;
 	display: inline;
 
