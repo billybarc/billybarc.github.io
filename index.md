@@ -7,9 +7,17 @@ title: William Barcelona | billybarc
 ![Me](/assets/boardphoto.jpg)
   </div>
   <div class="rightcol" markdown="1">
-I am an aspiring research economist. I work as a Senior Research Assistant in the <a href="{{site.data.external_pages.eme}}">Emerging Markets</a> section at the Federal Reserve Board. Before this, I studied Economics at the University of Washington in Seattle, where I also managed the student radio station, <a href="{{site.data.external_pages.rdr}}">Rainy Dawg Radio</a>.
+<p>
+I am a Senior Research Assistant in the <a href="{{site.data.external_pages.eme}}">Emerging Markets</a> section of the International Finance Division at the <a href="{{site.data.external_pages.frb}}">Federal Reserve Board</a>.
+</p>
 
+<p>
+I studied Economics at the University of Washington in Seattle, where I also managed the student radio station, <a href="{{site.data.external_pages.rdr}}">Rainy Dawg Radio</a>.
+</p>
+
+<p markdown="1">
 [CV](/assets/CV.pdf)
+</p>
 
   </div>
 </div>
