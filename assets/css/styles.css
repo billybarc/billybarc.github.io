@@ -1,0 +1,29 @@
+a { color: blue; }
+
+body { background-color: white; font-family: sans-serif; }
+
+.container { display: flex; }
+
+#index { flex-direction: row; justify-content: center; align-items: center; }
+
+#research { flex-direction: column; justify-content: flex-start; align-items: flex-start; margin: 0 1em; }
+
+#footer { flex-direction: row; justify-content: center; font-size: .8em; }
+
+#footer #email { font-family: "Courier New", Courier, monospace; }
+
+#index div { max-width: 25%; padding: 1em; }
+
+#research li { margin: 0 0 1em 0; }
+
+#research li:last-child { margin: 0; }
+
+.nav { margin: 0; text-align: center; font-size: 1.5em; font-family: serif; }
+
+.nav li { display: inline; }
+
+.nav a { display: inline-block; margin: .25em .3em; }
+
+.current { font-weight: bold; }
+
+/*# sourceMappingURL=styles.css.map */
