@@ -19,5 +19,9 @@ I studied Economics at the University of Washington in Seattle, where I also man
 [CV](/assets/CV.pdf)
 </p>
 
+<p>
+My roommate's website: <a href="{{site.data.external_pages.hd}}">Henry Dotson</a>.
+</p>
+
   </div>
 </div>
