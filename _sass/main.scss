@@ -1,6 +1,11 @@
 // SITE WIDE OPTIONS
 a {
   color: blue;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 body {
@@ -11,6 +16,31 @@ body {
 // FLEXBOX CONTAINERS USED ACROSS SITE
 .container {
   display: flex;
+}
+
+// NAVIGATION BAR AT TOP OF EACH PAGE
+.topnav {
+  display: flex;
+  margin: 0;
+  font-size: 1.25em;
+  justify-content: center;
+}
+
+.topnav ul {
+  padding-inline-start: 0;
+}
+
+.topnav li {
+  display: inline;
+  margin: 0 .25em 0 0;
+}
+
+.topnav li:last-child {
+  margin: 0;
+}
+
+.current {
+  font-weight: bold;
 }
 
 // INDIVIDUAL CONTAINERS AND ELEMENTS
@@ -47,25 +77,4 @@ body {
 }
 #research li:last-child {
   margin: 0;
-}
-
-// NAVIGATION BAR AT TOP OF EACH PAGE
-.nav {
-  margin: 0;
-  text-align: center;
-  font-size: 1.5em;
-  font-family: serif;
-}
-
-.nav li {
-  display: inline;
-}
-
-.nav a {
-  display: inline-block;
-  margin: .25em .3em;
-}
-
-.current {
-  font-weight: bold;
 }
