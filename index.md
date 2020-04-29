@@ -15,6 +15,10 @@ I am a Senior Research Assistant in the <a href="{{site.data.external_pages.eme}
 I studied Economics at the University of Washington in Seattle, where I also managed the student radio station, <a href="{{site.data.external_pages.rdr}}">Rainy Dawg Radio</a>.
 </p>
 
+<p>
+I will be entering the Economics PhD program at the University of Wisconsin-Madison this fall.
+</p>
+
 <p markdown="1">
 [CV](/assets/CV.pdf)
 </p>
