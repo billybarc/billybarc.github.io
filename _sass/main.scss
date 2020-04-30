@@ -68,7 +68,6 @@ body {
 }
 
 #index div {
-  max-width: 25%;
   padding: 1em;
 }
 
@@ -77,4 +76,23 @@ body {
 }
 #research li:last-child {
   margin: 0;
+}
+
+@media only screen and (max-width: 600px) {
+  .container {
+    margin: auto;
+    display: inline-block;
+  }
+
+  #index div {
+    padding-bottom: 0em;
+    padding-top: 0em;
+  }
+
+  #leftcol img {
+    margin: auto;
+    display: block;
+  }
+
+
 }
