@@ -8,7 +8,7 @@ title: William Barcelona | billybarc
   </div>
   <div id="rightcol" markdown="1">
 <p>
-I am a Senior Research Assistant in the <a href="{{site.data.external_pages.eme}}">Emerging Markets</a> section of the International Finance Division at the <a href="{{site.data.external_pages.frb}}">Federal Reserve Board</a>.
+I was a Senior Research Assistant in the <a href="{{site.data.external_pages.eme}}">Emerging Markets</a> section of the International Finance Division at the <a href="{{site.data.external_pages.frb}}">Federal Reserve Board</a> from 2017-2020.
 </p>
 
 <p>
@@ -16,7 +16,7 @@ I studied Economics at the University of Washington in Seattle, where I also man
 </p>
 
 <p>
-I will be entering the Economics PhD program at the University of Wisconsin-Madison this fall.
+I will be entering the Economics PhD program at the University of Wisconsin-Madison in August 2020.
 </p>
 
 <p markdown="1">
