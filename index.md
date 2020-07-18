@@ -23,9 +23,5 @@ I will be entering the Economics PhD program at the University of Wisconsin-Madi
 [CV](/assets/CV.pdf)
 </p>
 
-<p>
-My roommate's website: <a href="{{site.data.external_pages.hd}}">Henry Dotson</a>.
-</p>
-
   </div>
 </div>
