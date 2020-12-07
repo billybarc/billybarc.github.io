@@ -11,10 +11,6 @@ title: William Barcelona | billybarc
 <h2>Welcome!</h2>
 
 <p>
-I am a first-year Economics PhD student at <a href="{{site.data.external_pages.uwmadecon}}">UW-Madison</a>. My current research interests are in international macro and monetary policy.
-</p>
-
-<p>
 I was a Senior Research Assistant in the <a href="{{site.data.external_pages.eme}}">Emerging Markets</a> section of the International Finance Division at the <a href="{{site.data.external_pages.frb}}">Federal Reserve Board</a> from 2017-2020.
 </p>
 
