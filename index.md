@@ -14,7 +14,7 @@ title: William Barcelona | billybarc
 
 <p>I studied Economics at the University of Washington in Seattle, where I also managed the student radio station, <a href="{{ site.data.external_pages.rdr }}">Rainy Dawg Radio</a>.</p>
 
-<p markdown="1">[CV](/assets/CV.pdf)</p>
+<p markdown="1">[Resume](/assets/Resume.pdf)</p>
 
   </div>
 </div>
