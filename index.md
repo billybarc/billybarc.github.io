@@ -10,7 +10,7 @@ title: William Barcelona | billybarc
 
 <h2>Welcome!</h2>
 
-<p> I am a Technology Analyst in the <a href="{{ site.data.external_pages.gfi }}">Global Financial Institutions</a> section at the <a href="{{ site.data.external_pages.frb }}">Federal Reserve Board</a>. I was a research assistant in the Emerging Market Economies section from 2017-2020.</p>
+<p> I am a Technology Analyst in the <a href="{{ site.data.external_pages.gfi }}">Global Financial Institutions</a> section at the <a href="{{ site.data.external_pages.frb }}">Federal Reserve Board</a>. I was a Research Assistant in the Emerging Market Economies section from 2017-2020.</p>
 
 <p>I studied Economics at the University of Washington in Seattle, where I also managed the student radio station, <a href="{{ site.data.external_pages.rdr }}">Rainy Dawg Radio</a>.</p>
 
