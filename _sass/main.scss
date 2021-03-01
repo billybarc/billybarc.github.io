@@ -79,16 +79,15 @@ body {
   margin: 0;
 }
 
-@media only screen and (max-width: 600px) {
-  .container {
-    margin: auto;
+@media only screen and (max-width: 1000px) {
+  #index.container {
     display: inline-block;
+    margin: 0 10% 0 10%;
   }
 
-  #index div {
+  #index.container div {
     padding-bottom: 0em;
     padding-top: 0em;
-    margin: auto;
   }
 
   #leftcol img {
