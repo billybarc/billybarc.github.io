@@ -8,7 +8,7 @@ title: William Barcelona | billybarc
   </div>
   <div id="rightcol" markdown="1">
 
-  <h3>Welcome!</h3>
+  <h3>Hi &#128075;, my name is William Barcelona</h3>
 
   <p> I am a Technology Analyst in the <a href="{{ site.data.external_pages.gfi }}">Global Financial Institutions</a> section at the <a href="{{ site.data.external_pages.frb }}">Federal Reserve Board</a>. I was a Research Assistant in the Emerging Market Economies section from 2017-2020.</p>
 
