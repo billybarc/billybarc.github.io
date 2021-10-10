@@ -135,6 +135,7 @@ PLATFORMS
 DEPENDENCIES
   bootstrap (~> 5.1)
   jekyll (~> 4.2)
+  nokogiri (~> 1.12)
   webrick (~> 1.7)
 
 BUNDLED WITH
