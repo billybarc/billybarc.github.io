@@ -20,19 +20,24 @@ body {
 
 // NAVIGATION BAR AT TOP OF EACH PAGE
 .topnav {
-  display: flex;
-  margin: 0;
+  overflow: hidden;
   font-size: 1.25em;
-  justify-content: center;
 }
 
 .topnav ul {
   padding-inline-start: 0;
+  position: relative;
+  float: left;
+  display: block;
+  left: 50%;
 }
 
-.topnav li {
-  display: inline;
-  margin: 0 .25em 0 0;
+.topnav ul li {
+  position: relative; 
+  float: left; 
+  display: block;
+  right: 50%;
+  margin: 0 .5em 0 0;
 }
 
 .topnav li:last-child {
@@ -48,7 +53,7 @@ body {
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  margin: 0 30% 0 30%;
+  margin: 0 15% 0 15%;
 }
 
 #research {
