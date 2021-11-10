@@ -5,10 +5,13 @@ title: Research
 <div class="container" id="research">
 <h3>Working Papers</h3>
 <ul>
-{%- for paper in site.data.wp %}
+{% assign wp_sorted = site.data.wp | sort: 'date' | reverse %}
+{%- for paper in wp_sorted %}
   <li><b>
   {%- if paper.filename != null -%}
-    <a href="/assets/{{ paper.filename }}">{{ paper.title }}</a>
+    <a target="_blank" href="/assets/{{ paper.filename }}">{{ paper.title }}</a>
+  {%- else if paper.href != null -%}
+    <a target="_blank" href="{{ paper.href }}">{{ paper.title }}</a>
   {%- else -%}
     {{ paper.title }}
   {%- endif -%}
