@@ -1,11 +1,15 @@
 -
   title: "What Happens in China Does Not Stay in China"
   date: 20211215
-  filename: "BCHVL_December2021.pdf"
+  href: "https://www.federalreserve.gov/econres/ifdp/files/ifdp1360.pdf"
   authors:
     - "Danilo Cascaldi-Garcia"
     - "Jasper Hoek"
     - "Eva Van Leemput"
+  other_links:
+    - label: "Data"
+      href: "https://docs.google.com/spreadsheets/d/1Jg_KDzqEHX8pYobXjGaIabhP5CKBBDOT/edit#gid=224222911"
+
 -
    title: "U.S. Housing as a Global Safe Asset: Evidence from China Shocks"
    date: 20211108

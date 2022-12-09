@@ -27,7 +27,15 @@ title: Research
       {%- endif -%}
     {%- endfor -%}
   {%- endif -%}
-  .</li>
+  .
+  {%- if paper.other_links != null -%}
+    <p>
+    {%- for link in paper.other_links -%}
+      <a target="_blank" href="{{ link.href }}">{{ link.label }} </a>
+    {%- endfor%}
+    </p>
+  {%- endif -%}
+  </li>
 {%- endfor %}
 </ul>
 
